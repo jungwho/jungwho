@@ -8,7 +8,8 @@
 - **학과** 중앙대학교 컴퓨터예술학부(4학년)
 
 ## 기술 스텍
-- Web: React.js, Next.js, Typescript
+- Web: React.js, Next.js, Typescript, Flask
 - App: React-Native, Java
+- Back-end: Express.js
 - Tool: Github, Figma
 - Language: Python, Java, Javascript, C++
