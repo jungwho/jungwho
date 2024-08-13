@@ -9,7 +9,7 @@
 
 ## 기술 스텍
 - **Web** React.js, Next.js, Typescript, Flask
-- **App** React-Native, Java
+- **App** React-Native, Kotlin
 - **Back-end** Express.js
 - **Tool** Github, Figma
 - **Language** Python, Java, Javascript, C++
