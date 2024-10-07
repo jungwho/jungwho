@@ -13,3 +13,8 @@
 - **Back-end** Express.js
 - **Tool** Github, Figma
 - **Language** Python, Java, Javascript, C++
+
+## 대외 활동
+- **UMC 6기** Front-end(2024.03-2024.08)
+- **MEDILUX 22기** Front-end(2024.07-2024.12)
+- **UMC 7기** Back-end, Design(2024.09-2025.02)
