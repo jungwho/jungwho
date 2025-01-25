@@ -18,3 +18,5 @@
 - **UMC 6기** Front-end(2024.03-2024.08)
 - **MEDILUX 22기** Front-end(2024.07-2024.12)
 - **UMC 7기** Back-end, Design(2024.09-2025.02)
+- **오케이창업 주식회사** Web Publisher(2024.12-2025.02)
+- **QUA** App Developer(2024.12-NOW)
